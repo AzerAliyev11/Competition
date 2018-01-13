@@ -1,0 +1,172 @@
+html, body
+{
+	height: 100%;
+}
+
+.top
+{
+	height: 4%;
+	background-color: #F3732E;
+}
+
+.l
+{
+	margin-left: 2%;
+	color: #F8F8F9;
+}
+
+.r
+{
+	float: right;
+	margin-right: 2%;
+	color: #F8F8F9;
+}
+
+.header
+{
+	height: 100%;
+	background-image: url("bcg1.png");
+	background-size: cover;
+}
+
+.logo
+{
+	color: #F8F8F9;
+	font-size: 40px;
+	position: absolute;
+	top: 17%;
+	left: 8%;
+}
+
+.links
+{
+	width: 40%;
+	display: inline;
+	float: right;
+	margin-right: 14%;
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}
+
+.links a
+{
+	margin-right: 10%;
+	color: #F8F8F9;
+	text-decoration: none;
+}
+
+.header p
+{
+	position: absolute;
+	top: 40%;
+	left: 20%;
+	color: white;
+}
+
+.header .form
+{
+	position: absolute;
+	top: 35%;
+	left: 60%;
+}
+
+.navigation .with
+{
+	font-size: 25px;
+	width: 15%;
+	text-align: center;
+	line-height:40px;
+}
+
+.navigation .with span
+{
+	font-size: 12px;
+}
+
+.form
+{
+	width: 40%;
+}
+
+.form .sign
+{
+	color: #F8F8F9;
+}
+
+.form input
+{
+	margin-top: 3%;
+	width: 40%;
+}
+
+.form .btn
+{
+	margin-top: 8%;
+	width: 40%;
+	background-color: #F3732E;
+	color: #F8F8F9;
+}
+
+.form p
+{
+	position: absolute;
+	top: 106%;
+	left: -1%;
+}
+
+.middle
+{
+	height: 100%;
+}
+
+.middle .middletop
+{
+	height: 60%;
+}
+
+.middle .middlebottom
+{
+	height: 60%;
+}
+
+.middletop .what
+{
+	text-align: center;
+	color: black;
+	font-size: 30px;
+	margin-top: 5%;
+	color: #949798;
+}
+
+.row
+{
+	margin-top: 5%;
+}
+
+.col-xs-3 p
+{
+	width: 80%;
+	color: #949798;
+}
+
+
+.middlebottom
+{
+	background-color: #F8F8F9;
+}
+
+.middlebottom p
+{
+	text-align: center;
+	font-size: 30px;
+	color: #949798;
+	margin-top: 2%;
+}
+
+.middlebottom img
+{
+	margin-left: 8%;
+	margin-top: 5%;
+}
+
